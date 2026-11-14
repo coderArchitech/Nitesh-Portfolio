@@ -30,6 +30,21 @@ npx serve .
 
 Push to the connected GitHub repository and Vercel deploys it (framework preset: **Other**). Or run `vercel` from this folder.
 
+## Motion and interaction
+
+- Staggered load-in for the hero, with a rotating word in the headline (reliable, scalable, observable)
+- Hero glow that follows the cursor over a dot grid, and a gentle 3D tilt on the "At a glance" card
+- Numbers count up when they scroll into view
+- Cursor-aware spotlight and border glow on cards
+- Scroll-linked experience timeline, top progress bar, and a back-to-top button with a progress ring
+- Nav indicator that slides to the hovered or current section
+- Project screenshots with parallax depth, hover lift, and a click-to-zoom lightbox
+- Circular reveal when switching between light and dark themes
+- "Copy email address" button with a confirmation toast
+- Company names in a slow marquee that pauses on hover
+
+All motion is turned off for visitors who set "reduce motion" in their OS. Content stays fully visible without JavaScript.
+
 ## Notes
 
 - Light and dark themes follow the system setting; the toggle in the nav overrides it and remembers the choice.
