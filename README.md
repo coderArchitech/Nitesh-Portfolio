@@ -9,7 +9,8 @@ Personal site for Nitesh Kumar, Engineering Manager (platforms, developer produc
 - **Impact:** selected outcomes in numbers
 - **Experience:** recent manager roles split into leadership and engineering work, with earlier roles in brief
 - **Personal projects:** [Sidekick](https://github.com/coderArchitech/Sidekick) and [Flipbook](https://github.com/coderArchitech/flipbook)
-- **Skills, education and contact**
+- **Skills:** six engineering-leadership areas first (people, delivery, technical leadership, operations, stakeholders, culture and productivity), then technical depth
+- **Education and contact**
 
 ## Structure
 
