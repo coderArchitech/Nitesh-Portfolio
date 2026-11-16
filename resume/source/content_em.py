@@ -21,6 +21,13 @@ SUMMARY = (
     "Seeking **Engineering Manager** roles leading product or platform teams."
 )
 
+HIGHLIGHTS = [
+    ("Backend scale", "**10M rows per run** through a RabbitMQ microservices pipeline; REST APIs for **100K peak users**"),
+    ("Distributed systems", "BFF services over **gRPC** with **Kafka**; notification microservice for **100K users**"),
+    ("Automation", "**12 workflows** automated (Node.js, BPMN): **90% faster** processing, **$200K/yr** saved"),
+    ("AI platform", "RAG over **150,000 documents** for **~500 users**, with no model retraining"),
+]
+
 SKILLS = [
     ("Leadership", "Hiring & Interviewing, Performance Management, Career Development & Promotions, 1:1 Coaching, "
                    "OKRs & Goal-Setting, Technical Strategy, Stakeholder Management, Vendor Management"),
