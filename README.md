@@ -1,6 +1,6 @@
 # Nitesh Kumar | Portfolio
 
-Personal site for Nitesh Kumar, Engineering Manager (platforms, developer productivity and distributed systems), based in Bengaluru.
+Personal site for Nitesh Kumar, engineering leader targeting Engineering Manager roles (platforms, developer productivity and distributed systems), based in Bengaluru.
 
 ## Sections
 
