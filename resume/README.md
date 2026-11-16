@@ -77,7 +77,7 @@ Interviewers will pick from the Key Impact block. Have a 2-minute answer ready f
 
 ## Before you send: checklist
 
-- [ ] **Jazzx.ai start date:** the résumé says September 2025. Your old website said November 2025. Use the date on your offer letter.
+- [x] **Jazzx.ai start date:** confirmed as September 2025 (used in all résumés and on the website).
 - [ ] **OKRs:** listed under Jazzx.ai. Move the bullet if you ran OKRs at Hella instead.
 - [ ] **Titles match your records:** Staff Software Engineer (Jazzx.ai) and Lead Software Engineer (Hella Infra Market) should match LinkedIn and your relieving letters.
 - [ ] **LinkedIn headline** matches the résumé headline, and your experience entries have the same scope lines.
