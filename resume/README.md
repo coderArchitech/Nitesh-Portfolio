@@ -7,7 +7,7 @@ This folder holds your résumé in three versions. Read this before you send any
 | File | Use it for |
 |---|---|
 | `Nitesh-Kumar-Resume.pdf` / `.docx` | **Main version (recommended).** Engineering Manager first, backed by Staff-level technical depth. Use for most EM applications. The website's download button serves this one. |
-| `Nitesh-Kumar-Resume-EM.pdf` / `.docx` | Conventional EM version. Its Key Impact block holds only the four backend items (Backend scale, Distributed systems, Automation, AI platform); leadership results are carried by the summary and the bullets. Use it if a recruiter asks for something more conventional. |
+| `Nitesh-Kumar-Resume-EM.pdf` / `.docx` | Conventional EM version. Its Key Impact block has six items: Team building and Reliability first, then the four backend items (Backend scale, Distributed systems, Automation, AI platform). Use it if a recruiter asks for something more conventional. |
 | `Nitesh-Kumar-Resume-Staff-TLM.pdf` / `.docx` | Engineering-first version for Staff Engineer, Tech Lead Manager and AI engineering-lead roles. |
 | `source/` | The text and build scripts that generate all three (see "Editing and rebuilding" below). |
 

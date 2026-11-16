@@ -22,6 +22,8 @@ SUMMARY = (
 )
 
 HIGHLIGHTS = [
+    ("Team building", "grew a team **2 → 8 engineers**; **3 engineers promoted** to senior"),
+    ("Reliability", "**99.99% uptime** for **50K+ DAU**; owned on-call, SLAs and post-incident reviews"),
     ("Backend scale", "**10M rows per run** through a RabbitMQ microservices pipeline; REST APIs for **100K peak users**"),
     ("Distributed systems", "BFF services over **gRPC** with **Kafka**; notification microservice for **100K users**"),
     ("Automation", "**12 workflows** automated (Node.js, BPMN): **90% faster** processing, **$200K/yr** saved"),
