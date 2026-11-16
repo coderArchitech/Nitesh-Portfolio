@@ -18,9 +18,11 @@ HIGHLIGHTS = [
     ("Team building", "grew a team **2 → 8 engineers**; **3 engineers promoted** to senior"),
     ("Reliability", "**99.99% uptime** for **50K+ DAU**; owned on-call, SLAs and post-incident reviews"),
     ("Delivery speed", "**daily zero-downtime releases**; **~40% faster** PR turnaround"),
-    ("Developer leverage", "**100+ component** design system; **60% faster** feature development"),
-    ("Performance", "**45% faster** page load; **50% smaller** bundle and **40% faster** load"),
-    ("AI & business impact", "RAG over **150,000 docs** for **~500 users**; **$200K/yr** saved via automation"),
+    ("Backend scale", "**10M rows per run** through a RabbitMQ microservices pipeline; REST APIs for **100K peak users**"),
+    ("Distributed systems", "BFF services over **gRPC** with **Kafka**; notification microservice for **100K users**"),
+    ("Automation", "**12 workflows** automated (Node.js, BPMN): **90% faster** processing, **$200K/yr** saved"),
+    ("AI platform", "RAG over **150,000 documents** for **~500 users**, with no model retraining"),
+    ("Frontend platform", "**100+ component** design system (**60% faster** feature work); **45% faster** page load"),
 ]
 
 SKILLS = [
